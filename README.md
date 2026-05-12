@@ -85,6 +85,12 @@ pip install numpy pandas matplotlib seaborn scikit-learn
    - Run GridSearchCV to find the best model
    - Perform 5-fold cross-validation on the final model
 
+
+![Training Curve](assets/Figure1.png)
+![Training Curve](assets/Figure2.png)
+![Training Curve](assets/Figure3.png)
+![Training Curve](assets/Figure4.png)
+
 ## Key Outputs
 
 - Performance comparison of three kernels (Accuracy, Precision, Recall, F1)
